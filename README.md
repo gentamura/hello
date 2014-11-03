@@ -1,0 +1,1 @@
+Hello from [Go with Peter Bourgon](http://howistart.org/posts/go/1)
